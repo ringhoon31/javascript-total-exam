@@ -40,7 +40,7 @@ h1 {
     margin-bottom: 20px;
 }
 .status strong {
-    color:#e8743b;
+    color:#1c95ce;
     font-size: 18px;
 }
 .board {
@@ -69,12 +69,12 @@ h1 {
     backface-visibility: hidden;
 }
 .card .front {
-    background-color: #e8743b;
+    background-color: #43c4ff;
     color:#fff;
     font-weight: bold;
 }
 .card .back {
-    border: 3px solid #e8743b;
+    border: 3px solid #43c4ff;
     background-color: #fff;
     transform: rotateY(180deg);
 }
@@ -105,5 +105,5 @@ h1 {
     font-size: 15px;
 }
 .restart:hover{
-    background-color: #e8743b;
+    background-color: #43c4ff;
 }
